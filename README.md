@@ -2,7 +2,7 @@
 > Still work in progress.
 
 <h1 align="center">
-   <img src="glaze-logo.png" width="30%" height="30%" alt="glaze logo" title="glaze logo">
+   <img src="glaze-logo.png" width="20%" height="20%" alt="glaze logo" title="glaze logo">
 </h1>
 
 <div align="center">Terminal string styling.</div>
